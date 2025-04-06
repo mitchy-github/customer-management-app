@@ -1,6 +1,6 @@
 # customer-management-app
 
-シンプルでユーザーフレンドリーな顧客管理システムのフロントエンド実装です。このアプリケーションは、ログイン機能と顧客情報の管理機能を提供します。
+このアプリケーションは、シンプルで使いやすい顧客管理システムのフロントエンドを実装したものです。ユーザーはログインして、顧客情報の閲覧・登録などの管理が行えます。
 
 ## 目次
 
@@ -26,22 +26,22 @@
 
 ### 前提条件
 
-- Node.js (v14.0.0 以上)
-- npm (v6.0.0 以上)
+- Node.js (v18.0.0 以上)
+- npm (v9.0.0 以上)
 
 ### インストール
 
 1. リポジトリをクローンします
 
 ```bash
-git clone https://github.com/yourusername/customer-management-app
+git clone https://github.com/mitchy-github/customer-management-app.git
 cd customer-management-app
 ```
 
 2. 依存パッケージをインストールします
 
 ```bash
-npm install
+npm i react-scripts
 ```
 
 3. アプリケーションを起動します
