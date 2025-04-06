@@ -1,8 +1,7 @@
-// src/components/CustomerList.js
 import React, { useState } from 'react';
 import {
   Table, TableBody, TableCell, TableContainer,
-  TableHead, TableRow, Paper, Button, TextField, IconButton
+  TableHead, TableRow, Paper, Button, TextField,
 } from '@mui/material';
 import { ArrowUpward, ArrowDownward } from '@mui/icons-material';
 
